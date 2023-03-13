@@ -8,7 +8,7 @@ The famous 5-letters-word-guessing game: wordle (https://www.nytimes.com/games/w
   * Handled different invalid inputs from the user.
 
 ## Implementation
-GUI
+GUI: Both the guesses and the guessed characters are Label objects placed inside GridPane objects. These two separate GridPane objects are placed inside of a VBox which is then placed inside of the Scene. 
 
 Event Handling
 
